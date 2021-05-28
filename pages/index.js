@@ -26,13 +26,14 @@ const Home = () => (
                 Olá Mundo! </Alert>
             <Button color="danger"> Danger!
             </Button>
-            <div>Icones:<br/>
+            <>
+                Icones:<br/>
                 Café: <FontAwesomeIcon icon="coffee" /><br/>
                 Usuario: <FontAwesomeIcon icon="user" /><br/>
                 Graduado: <FontAwesomeIcon icon="user-graduate" /><br/>
                 Twitter: <FontAwesomeIcon icon={['fab', 'twitter']} /><br/>
                 Frasco: <FontAwesomeIcon icon={['fas', 'flask']} /><br/>
-            </div>
+            </>
         </Container>
     </div>
 );
