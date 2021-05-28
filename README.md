@@ -25,3 +25,12 @@
 
 - https://www.npmjs.com/package/@zeit/next-css
 - Next.js agora tem suporte integrado para CSS: https://nextjs.org/docs/basic-features/built-in-css-support. O suporte integrado resolve muitos bugs e pontos de dor que o plugin next-css tinha.
+
+### Instalar dependencies do Fontawesome 5
+- https://dev.to/vuongddang/how-to-use-fontawesome-in-next-js-5bl5
+- npm i --save @fortawesome/fontawesome-svg-core \
+-             @fortawesome/free-solid-svg-icons \
+-             @fortawesome/free-brands-svg-icons \
+-             @fortawesome/react-fontawesome
+### https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free
+- buscar icones
